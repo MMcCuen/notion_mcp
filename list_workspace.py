@@ -5,7 +5,7 @@ List all available databases and their contents in Notion workspace.
 
 import json
 import subprocess
-import sys
+
 import os
 
 def send_mcp_message(process, message):

@@ -5,7 +5,7 @@ Query Notion MCP server to find ticket information in Refined database.
 
 import json
 import subprocess
-import sys
+
 import os
 
 def send_mcp_message(process, message):

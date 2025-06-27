@@ -5,7 +5,7 @@ List all Notion databases to find where tickets might be stored.
 
 import json
 import subprocess
-import sys
+
 import os
 
 def send_mcp_message(process, message):
