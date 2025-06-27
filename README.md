@@ -1,5 +1,7 @@
 *This project is not affiliated with Notion. Use at your own risk.*
 
+* Official Notion / MCP Github can be found -> https://github.com/makenotion/notion-mcp-server?tab=readme-ov-file.*
+
 # Notion MCP Utilities
 
 A collection of Python scripts for interacting with Notion via the Model Context Protocol (MCP) server. These tools allow you to list databases, query tickets, update page titles/descriptions, and explore Notion workspace resources using the Notion MCP Docker image.
