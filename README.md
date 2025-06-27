@@ -1,6 +1,6 @@
 *This project is not affiliated with Notion. Use at your own risk.*
 
-* Official Notion / MCP Github can be found -> https://github.com/makenotion/notion-mcp-server?tab=readme-ov-file.*
+Official Notion / MCP Github can be found -> https://github.com/makenotion/notion-mcp-server?tab=readme-ov-file.
 
 # Notion MCP Utilities
 
